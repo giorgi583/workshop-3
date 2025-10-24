@@ -1,0 +1,32 @@
+.card {
+  width: 320px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  box-shadow: 5px 5px 5px #b9bec7;
+}
+.img {
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+  margin: auto;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+
+h3 {
+  font-size: 21px;
+  text-align: center;
+  color: #1f3251;
+}
+.paragraph {
+  font-size: 15px;
+  color: #7b879d;
+  text-align: center;
+}
+body {
+  background-color: #d6e2f0;
+}
