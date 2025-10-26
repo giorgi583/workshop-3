@@ -2,7 +2,7 @@
   width: 320px;
   background-color: white;
   border-radius: 20px;
-  padding: 20px;
+  padding: 15px 5px;
   margin: auto;
   box-shadow: 5px 5px 5px #b9bec7;
 }
@@ -11,12 +11,16 @@
   height: 288px;
   border-radius: 10px;
   margin: auto;
+  
 }
 img {
   width: 100%;
   height: 100%;
+  border-radius: 10px;
 }
-
+.text {
+  padding: 10px;
+}
 h3 {
   font-size: 21px;
   text-align: center;
